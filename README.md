@@ -4,4 +4,4 @@ A conferência de quem estava saindo era feita através da observação da placa
 
 O código é bem simples, sem responsividade nas telas mas teria suprido minha demanda por mais velocidade na anotação do horário de saída dos visitantes se eu o tivesse usado... criei esse código dois meses após ter deixado o emprego como uma forma de por em prática minhas habilidades de programação para resolver problemas reais e peguei tal problema da anotação como um desafio.
 
-Irei postar um vídeo mostrando a execução do código.
+Vídeo mostrando a execução do código: https://youtu.be/vypMi1jzCBE
